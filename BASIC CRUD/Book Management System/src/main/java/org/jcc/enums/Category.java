@@ -1,0 +1,10 @@
+package org.jcc.enums;
+
+public enum Category {
+    FICTION, NON_FICTION,
+    SCIENCE, TECHNOLOGY,
+    HISTORY, MATHEMATICS,
+    BIOGRAPHY, EDUCATION,
+    ROMANCE, FANTASY,
+    MYSTERY, OTHER
+}
